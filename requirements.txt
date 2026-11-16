@@ -1,0 +1,9 @@
+groq
+ddgs
+trafilatura
+pypdf
+networkx
+matplotlib
+pandas
+requests
+streamlit

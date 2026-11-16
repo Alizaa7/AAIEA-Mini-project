@@ -1,0 +1,11 @@
+# generated at runtime
+llm_cache.json
+research_memory.json
+research_report.md
+evidence_graph.json
+cf.log
+cloudflared
+# secrets
+.env
+.streamlit/secrets.toml
+__pycache__/
